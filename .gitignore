@@ -7,6 +7,7 @@
 /functions
 .firebaserc
 firebase.json
+.idea
 
 # testing
 /coverage
