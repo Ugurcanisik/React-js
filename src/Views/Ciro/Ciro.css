@@ -1,0 +1,10 @@
+.modal-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.title-fix {
+    text-align: center;
+}
